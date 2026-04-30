@@ -29,7 +29,7 @@ main:
   - title: "CV"
     url: /cv/
 
-    - title: "Visitors"
+  - title: "Visitors"
     url: /visitors/
     
   # - title: "CV"
