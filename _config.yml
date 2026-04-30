@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Junior, Software Engineering (Honors Class), Beijing University of Technology"
   location         : "Beijing, China"
-  employer         : "BJUT · HPGC Lab (Tsinghua SIGS)"
+  employer         : "Beijing University of Technology"
   uri              : # URL
   email            : "wangzhuo230410@emails.bjut.edu.cn" 
 
@@ -222,16 +222,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 

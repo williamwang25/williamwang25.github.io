@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Zhuo Wang (王茁)"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am **Zhuo Wang (王茁)**, a junior majoring in **Software Engineering (Honors Class)** at [Beijing University of Technology (BJUT)](https://www.bjut.edu.cn). I maintain strong academic performance (top 10% in my class) and have been actively pursuing research on multimodal AI since my sophomore year. I am currently a research intern in **Prof. Haohuan Fu's HPGC Lab** at Tsinghua SIGS.
+I am **Zhuo Wang (王茁)**, a junior majoring in **Software Engineering (Honors Class)** at [Beijing University of Technology (BJUT)](https://www.bjut.edu.cn). I maintain strong academic performance (top 10% in my class) and have been actively pursuing research on multimodal AI since my sophomore year.
 
 ## Research Interests
 
@@ -27,13 +27,13 @@ Constructed a 6,500-sample benchmark under four perturbation conditions; evaluat
 Research intern. Implemented semantic sliding-window segmentation over 230 unstructured reports into 9,975 chunks; achieved 6% hallucination rate and 88% relevance on 7,399 maritime safety records. Published at **ACM SIGSPATIAL 2025**.
 
 **SAR Multi-task Vision-Language Model** (Mar 2026 – present)  
-Research intern in **Prof. Haohuan Fu's HPGC Lab**, Tsinghua SIGS. Conducting systematic failure analysis of Qwen2.5-VL on SAR imagery and designing a SAR-Aware Visual Adapter and Spatial Reasoning Enhancement Module. Targeting **IEEE TGRS** (CCF-B).
+Research intern in **HPGC Lab**. Conducting systematic failure analysis of Qwen2.5-VL on SAR imagery and designing a SAR-Aware Visual Adapter and Spatial Reasoning Enhancement Module.
 
 ## Publications
 
 1. **MemeParser: A Temporal Vision-Language Framework for Modeling Propagation and Semantic Shift of Internet Memes**  
    Xiliang Liu, **Zhuo Wang**, Tao Zhou, Li Tian, Zhixiang He, Xiaoying Zhi, Jiale Liu.  
-   *IEEE ICME 2026* (CCF-B) — under review
+   *IEEE ICME 2026* (CCF-B) *Review scores: 5, 3, 3, 2.(Max=5,Strong Accept)
 
 2. **RobustSora: De-Watermarked Benchmark for Robust AI-Generated Video Detection**  
    **Zhuo Wang**, Xiliang Liu, Ligang Sun.  
