@@ -26,11 +26,11 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Visitors"
-    url: /visitors/
-    
   - title: "CV"
     url: /cv/
+
+    - title: "Visitors"
+    url: /visitors/
     
   # - title: "CV"
   #   url: /cv-json/
