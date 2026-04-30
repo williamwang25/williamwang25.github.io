@@ -1,5 +1,5 @@
 ---
-title: '个人学术主页正式上线'
+title: 'Hello World!'
 date: 2026-04-30
 permalink: /posts/2026/04/site-launch/
 tags:
