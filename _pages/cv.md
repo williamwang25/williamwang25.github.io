@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * B.S. in Software Engineering (Honors Class), Beijing University of Technology (BJUT), 2023 – present (expected 2027)
-  * Top 10% in class
+  * Top 7.69% in major
 
 Research Experience
 ======
-* Mar 2026 – present: Research Intern, HPGC Lab
+* Apr 2026 – present: Research Intern, HPGC Lab
   * SAR Multi-task Vision-Language Model
   * Conducting systematic failure analysis of Qwen2.5-VL on SAR imagery; designing SAR-Aware Visual Adapter and Spatial Reasoning Enhancement Module
 
@@ -30,13 +30,13 @@ Research Experience
 
 * Sep – Dec 2025: Research Intern
   * GeoAgent: Lightweight Multi-Agent Framework for Geospatial Query
-  * Implemented semantic sliding-window segmentation; achieved 6% hallucination rate and 88% relevance on maritime safety records; published at **ACM SIGSPATIAL 2025**
+  * Implemented semantic sliding-window segmentation; achieved 6% hallucination rate and 88% relevance on maritime safety records;.
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Selected Awards
 ======
@@ -49,7 +49,7 @@ Selected Awards
 Skills
 ======
 * Programming: Python, C/C++, Java
-* Frameworks: PyTorch, Hugging Face Transformers, LangChain
+* Frameworks: PyTorch
 * Research: Multimodal LLMs, VLMs, AIGC detection, geospatial AI
 
 Talks

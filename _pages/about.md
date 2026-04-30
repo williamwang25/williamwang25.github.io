@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Zhuo Wang (王茁)**, a junior majoring in **Software Engineering (Honors Class)** at [Beijing University of Technology (BJUT)](https://www.bjut.edu.cn). I maintain strong academic performance (top 10% in my class) and have been actively pursuing research on multimodal AI since my sophomore year.
+I am **Zhuo Wang (王茁)**, a junior majoring in **Software Engineering (Honors Class)** at [Beijing University of Technology (BJUT)](https://www.bjut.edu.cn). I maintain strong academic performance (top 7.69% in major) and have been actively pursuing research on multimodal AI since my sophomore year.
 
 ## Research Interests
 
@@ -24,7 +24,7 @@ Designed a temporal VLM framework based on Qwen2.5-VL featuring a Visual Differe
 Constructed a 6,500-sample benchmark under four perturbation conditions; evaluated 10 SOTA detectors and exposed 2–8% robustness gaps due to watermark artifacts. Published at **AAAI 2026 Workshop on RSD** (CCF-A) as first author. Presented poster at AAAI 2026, Singapore.
 
 **GeoAgent: Lightweight Multi-Agent Framework for Geospatial Query** (Sep – Dec 2025)  
-Research intern. Implemented semantic sliding-window segmentation over 230 unstructured reports into 9,975 chunks; achieved 6% hallucination rate and 88% relevance on 7,399 maritime safety records. Published at **ACM SIGSPATIAL 2025**.
+Research intern. Implemented semantic sliding-window segmentation over 230 unstructured reports into 9,975 chunks; achieved 6% hallucination rate and 88% relevance on 7,399 maritime safety records.
 
 **SAR Multi-task Vision-Language Model** (Mar 2026 – present)  
 Research intern in **HPGC Lab**. Conducting systematic failure analysis of Qwen2.5-VL on SAR imagery and designing a SAR-Aware Visual Adapter and Spatial Reasoning Enhancement Module.
