@@ -17,16 +17,16 @@ I am **Zhuo Wang (王茁)**, a junior majoring in **Software Engineering (Honors
 
 ## Research Experience
 
-**MemeParser: Temporal Vision-Language Framework for Internet Meme Evolution** (Jun – Oct 2025)  
+[Jun – Oct 2025] **MemeParser: Temporal Vision-Language Framework for Internet Meme Evolution**  
 Designed a temporal VLM framework based on Qwen2.5-VL featuring a Visual Differential Layer, Delta Attention, and Semantic-Gated Cross-Attention. Constructed MemeEvo (500 groups, 10,247 instances), the first bilingual meme evolution dataset. Achieved 4.45% composite-metric improvement over SOTA. Submitted to **IEEE ICME 2026** (CCF-B) as student first author.
 
-**RobustSora: De-Watermarked Benchmark for Robust AIGC Video Detection** (Dec 2025 – present)  
+[Dec 2025 – present] **RobustSora: De-Watermarked Benchmark for Robust AIGC Video Detection** 
 Constructed a 6,500-sample benchmark under four perturbation conditions; evaluated 10 SOTA detectors and exposed 2–8% robustness gaps due to watermark artifacts. Published at **AAAI 2026 Workshop on RSD** (CCF-A) as first author. Presented poster at AAAI 2026, Singapore.
 
-**GeoAgent: Lightweight Multi-Agent Framework for Geospatial Query** (Sep – Dec 2025)  
+[Sep – Dec 2025]  **GeoAgent: Lightweight Multi-Agent Framework for Geospatial Query** 
 Research intern. Implemented semantic sliding-window segmentation over 230 unstructured reports into 9,975 chunks; achieved 6% hallucination rate and 88% relevance on 7,399 maritime safety records.
 
-**SAR Multi-task Vision-Language Model** (Mar 2026 – present)  
+[Mar 2026 – present]  **SAR Multi-task Vision-Language Model** 
 Research intern in **HPGC Lab**. Conducting systematic failure analysis of Qwen2.5-VL on SAR imagery and designing a SAR-Aware Visual Adapter and Spatial Reasoning Enhancement Module.
 
 ## Publications
