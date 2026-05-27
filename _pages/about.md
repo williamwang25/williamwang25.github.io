@@ -11,11 +11,31 @@ I am **Zhuo Wang (王茁)**, a junior majoring in **Software Engineering (Honors
 
 ## Research Interests
 
+- **LLMs & Agents** — software engineering agents, tool-augmented reasoning, modular agent harnesses
 - **Multimodal LLMs & VLMs** — temporal reasoning, complex-scene understanding, vision-language alignment
 - **LLMs in interdisciplinary domains** — remote sensing intelligence, geospatial AI, social computing
 - **Trustworthy AIGC** — robust detection of AI-generated content, multimedia forensics, AI governance
 
 ## Research Experience
+
+[Jan 2026 – present] **Harness Composer: Modular Harness Composition Framework for Software Engineering Agents**  
+Project lead and student first author. Formalized harness construction for software engineering agents as a module composition problem across tools, context, tests, compression, control, and state. The system profiles each repository/task, routes it through deterministic policy rules, and composes a lean, auditable, task-adaptive harness instead of using fixed configurations or exposing all tools. On Terminal-Bench 2, Harness Composer reaches 65.2% accuracy with Claude Opus 4.6, outperforming Terminus 2 (62.9%) and Claude Code (58.0%) while reducing cost by 17%; on SWE-bench Verified-100, it improves pass@1 from 78% to 80% and reduces cost by 7.5%. Submitted to **NeurIPS 2026**.
+
+<figure style="margin: 0.9rem 0 1.1rem;">
+  <img src="/images/harness_composer/overview.png" alt="Harness Composer framework overview" style="width: 100%; height: auto;">
+  <figcaption style="font-size: 0.85em; color: #6a737d; margin-top: 0.35rem;">Harness Composer overview: profile-driven policy routing, modular harness composition, and auditable agent execution.</figcaption>
+</figure>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 0.8rem; margin: 0.5rem 0 1.5rem;">
+  <figure style="margin: 0;">
+    <img src="/images/harness_composer/result.png" alt="Harness Composer Terminal-Bench 2 main results" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 0.85em; color: #6a737d; margin-top: 0.35rem;">Main Terminal-Bench 2 results.</figcaption>
+  </figure>
+  <figure style="margin: 0;">
+    <img src="/images/harness_composer/aba.png" alt="Harness Composer controlled efficiency analysis" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 0.85em; color: #6a737d; margin-top: 0.35rem;">Controlled efficiency analysis.</figcaption>
+  </figure>
+</div>
 
 [Jun – Oct 2025] **MemeParser: Temporal Vision-Language Framework for Internet Meme Evolution**  
 Designed a temporal VLM framework based on Qwen2.5-VL featuring a Visual Differential Layer, Delta Attention, and Semantic-Gated Cross-Attention. Constructed MemeEvo (500 groups, 10,247 instances), the first bilingual meme evolution dataset. Achieved 4.45% composite-metric improvement over SOTA. Submitted to **IEEE ICME 2026** (CCF-B) as student first author.
